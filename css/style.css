@@ -434,13 +434,11 @@ input[type='number']::-webkit-outer-spin-button {
 .video-block__right {
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-pack: center;
-	justify-content: center;
 }
 
 .video-block__frame {
 	width: 100%;
-	height: calc(452.786px);
+	height: calc(382.838px);
 }
 
 .coach-block {
@@ -1183,7 +1181,7 @@ input[type='number']::-webkit-outer-spin-button {
 
 .video-block__frame {
 	width: 100%;
-	height: calc(202.41px);
+	height: calc(171.42px);
 }
 
 .coach-block {
